@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![TaskFlow Logo](https://via.placeholder.com/150x150?text=TaskFlow)
+![TaskFlow Logo](https://github.com/user-attachments/assets/fb93cd98-2df5-491f-8ee8-ee7da840aa8b)
+
+
 
 **A powerful, collaborative task management application built for modern teams**
 
