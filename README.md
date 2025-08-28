@@ -69,13 +69,22 @@ TaskFlow is a modern, full-stack task management application designed to streaml
 <div align="center">
 
 ### Dashboard
-![Dashboard](https://via.placeholder.com/800x450?text=TaskFlow+Dashboard)
+![Dashboard](https://github.com/user-attachments/assets/a6859942-3a5d-457a-a9f0-afd9bd2fa9d4)
 
-### Kanban Board
-![Kanban Board](https://via.placeholder.com/800x450?text=Kanban+Board+Interface)
+### Board Management
+![Board Management Page](https://github.com/user-attachments/assets/0a7c4ab4-8ce7-4267-90f7-170189eeb148)
+![Board Management Page 2](https://github.com/user-attachments/assets/c804b406-7322-41d5-843a-7cbdfd21eaf8)
+![Board Management Page 3](https://github.com/user-attachments/assets/f4fca294-fcd4-400b-a017-4484e846c416)
 
 ### Team Management
-![Team Management](https://via.placeholder.com/800x450?text=Team+Management)
+![Team Management Page](https://github.com/user-attachments/assets/b66768b5-e1d9-4e99-82a0-db2335a3804b)
+
+### Kanban Board
+![Kanban Board](https://github.com/user-attachments/assets/05e2fe3b-9854-4984-9bdc-529425966d5b)
+![Kanban Board 2](https://github.com/user-attachments/assets/31b94532-fffc-4252-b95b-ddeec76f1847)
+
+### Task Cards
+![Task Cards](https://github.com/user-attachments/assets/bede0335-99ff-4d4d-8543-74e3fa125b3c)
 
 </div>
 
